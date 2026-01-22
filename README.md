@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CH-LauraRiccio
 - 👀 I’m interested in statistics and predictive modeling
-- 🌱 I’m currently learning how to work collaboratively on github with my colleagues
+- 👾 I’m currently mainlining claude code directly into the veins.
 - 💞️ I’m looking to collaborate on program evaulation and data expertise sharing
 - 📫 How to reach me 415 939 0296, laura.riccio@collectivehealth.com
 - 😄 Pronouns: she/her
